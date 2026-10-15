@@ -1,1 +1,0 @@
-import{r as e}from"./framework-ItqtACJ4.js";import{r as t}from"./link-D6thrsds.js";var n=e();function r(){let{pending:e}=t();return e?(0,n.jsx)(`span`,{"aria-hidden":`true`,className:`route-progress`}):null}export{r as RouteProgress};
