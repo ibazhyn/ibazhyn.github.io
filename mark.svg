@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+<desc>The owner's identity mark, the flat cut. Supplied as
+  personal-brand/logo-17.09/logo-17.09-without-shading.svg. One closed contour,
+  no overlays.
+
+  app/globals.css masks the header mark out of this file and paints the box:
+  lemon on a dark chip, ink on the canvas, lighter on hover. The shading is
+  public/mark-shade.svg, a second mask stacked on top in black or white. The
+  mask itself never changes, so a hover only retints and cannot jump.
+
+  The tab icon is public/mark-small.svg, which is this contour plus the
+  shading, in one file.</desc>
+<style>
+  :root { color: #f1fec8 }
+  @media (prefers-color-scheme: light) {
+    :root { color: #0e0e0d }
+  }
+</style>
+<g clip-path="url(#mark-clip)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M924.176 281.039C933.879 264.214 938.988 245.547 938.988 217.173C938.988 79.1021 857.148 0 760.5 0C756.844 0 753.133 0.0579987 749.371 0.17334H412C218.699 0.17334 62 224.031 62 500.173C62 776.316 218.699 1000.17 412 1000.17H762C758.746 1000.17 755.504 1000.11 752.273 999.984C755.41 999.996 758.488 1000 761.5 1000C858.148 1000 938 921.471 938 783.4C938 734.529 918.75 695.049 899.207 654.971C880.695 617.013 861.926 578.519 859 531C853.871 447.722 905.773 322.486 924.176 281.039ZM524.93 868.012C630.941 776.047 695.195 672.25 727.488 593.5C720.004 575.13 712.133 547.444 702.617 513.969C672.551 408.186 626.047 244.589 523.355 134.418C454.84 225.69 412 355.784 412 500.173C412 645.665 455.496 776.642 524.93 868.012Z" fill="currentColor"/>
+</g>
+<defs>
+<clipPath id="mark-clip">
+<rect width="1000" height="1000" fill="white"/>
+</clipPath>
+</defs>
+</svg>

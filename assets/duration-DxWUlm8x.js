@@ -1,0 +1,1 @@
+function e(e,t){let n=Number.parseFloat(e);return Number.isFinite(n)?e.trim().replace(/^[-\d.]+/,``)===`s`?n*1e3:n:t}export{e as t};
