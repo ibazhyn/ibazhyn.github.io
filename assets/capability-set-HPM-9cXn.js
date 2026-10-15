@@ -1,0 +1,1 @@
+import{r as e}from"./framework-ItqtACJ4.js";var t=e();function n({phrases:e}){return e.length===0?null:(0,t.jsx)(`span`,{className:`capability-set`,children:e.map(e=>(0,t.jsx)(`span`,{className:`capability-set__item`,children:e},e))})}export{n as t};
