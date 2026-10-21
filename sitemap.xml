@@ -16,11 +16,6 @@
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://ibazhyn.github.io/resume</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
 <loc>https://ibazhyn.github.io/work/productively</loc>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
