@@ -1,0 +1,1 @@
+import{t as e,u as t}from"./cases-solids-CEw229wY.js";import{t as n}from"./solid-scene-BlR-eNtf.js";function r(){return n({solids:e.map(e=>({placement:e,marks:t(e)})),surfaceClass:`cases-hero__surface`})}export{r as createCasesScene};
